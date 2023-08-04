@@ -1,0 +1,141 @@
+id,name
+42402f68-8587-421d-be44-9abe8127cfc6,GHG Protocol - Sample Emissions Inventory Reporting Template
+68174dbf-f79d-4870-8bf6-82efa63aa022,General Information
+a6477e6e-df7f-4bf3-b7a6-1f4677d5e4f3,Company Name
+3001bb37-b6ae-4a41-939a-5fdafc330541,Inventory Year
+711af679-d399-4a1c-b56a-7172e4f8947f,Has this inventory been verified by an accredited third party?
+040712ec-491b-4c73-95d5-9256e3f9dc4c,Date of verification
+643ddff9-62aa-4ce0-b479-147983688c34,Verifier
+c496b764-341e-4d6c-805f-9fe715742a26,Email
+be728ac2-6c50-4b3a-b274-44e82a34a8a8,Phone
+bb4f38e4-6b73-499d-a272-30161b064205,Address
+5bbcead3-bd0b-4844-a087-32c37ead1aa4,"Have any facilities, operations and/or emissions sources been excluded from this inventory?"
+edb9d8a6-7e62-4dea-8181-632c9b75d80b,Reporting period covered by this inventory
+96c5ab09-d361-49e7-8630-1ed2714037b7,Organizational Boundaries
+bfdb796b-3f7d-4c40-aa59-ec90667c1204,Which consolidation approach was chosen (check each consolidation approach for which your company is reporting emissions.)
+de410143-9b75-4631-9842-4f3ccc0d0f03,Equity Share
+9d934c39-7e21-46da-a1da-18ef191b2e54,Financial Control
+2a86ef3a-b96c-436e-9e96-5372499c26fb,Operational Control
+e1c98442-35a9-49e2-a33d-c005cec66bd3,"List of all legal entities or facilities over which reporting company has equity share, financial control or operational control"
+bb2156a5-a59e-43c1-847c-23f50ee1cb3a,% equity share in legal entity
+2fab39c5-449a-49bd-9bad-b7d1f9019ca8,Does reporting company have financial control?
+a33924ca-e3d3-49ca-b3ff-af65572ac081,Does reporting company have operational control?
+c8b528ec-0a8d-4843-9b55-c6c1a4a90bc0,"If the reporting company’s parent company does not report emissions, include an organizational diagram that clearly defines relationship of the reporting subsidiary as well as other subsidiaries"
+77def8bd-2a32-4ef0-a715-c731eff4f773,Operational Boundaries
+85c52a47-2ff6-406f-96e8-8a68783fb2b9,Are Scope 3 emissions included in this inventory?
+7b2cd79e-667d-4efd-b857-cf96615a1e9f,"If yes, which types of activities are included in Scope 3 emissions?"
+88da48de-3e0c-42f7-a315-ed233ee2e96f,Information on Emissions
+2e40bbcf-ff2a-4170-aa04-0801d506d1e9,"Current year emissions (independent of any GHG trades such as sales, purchases, transfers, or banking of allowances)"
+98770a4a-5d77-4b92-a2cc-f594f0d42581,Scope 1
+c4581a52-a110-4e6d-8350-2ece05eadbe2,Total (mtCO2e)
+661cfa31-1ecd-4ea1-a670-f24156988c34,CO2 (mt)
+61892c8d-9872-4e67-890f-3d4555aa509b,CH4 (mt)
+4eefb7d5-2d00-41a9-92a8-5b6c9e1f7f28,N2O (mt)
+2bf6696a-6b8f-45fb-80a3-4a9e8c8f9cd8,HFCs (mt)
+aec08b37-e678-4a05-a708-ce4592b5aa40,PFCs (mt)
+e447aa5d-6c67-4612-a85d-8f0fd627f45f,SF6 (mt)
+13bc4323-b449-4226-b721-84df19674015,Scope 2
+c29febdd-4582-4171-9d32-625ab282b98d,Total (mtCO2e)
+9ef594eb-eda5-4624-8a4f-604244fcc83e,CO2 (mt)
+751373cf-2479-49b3-87e2-a0a2d12f4017,CH4 (mt)
+e6b18bb5-85e5-483e-9caf-bde44ccad5ba,N2O (mt)
+3ca30db0-c39e-4d13-9428-e5c893de9a8b,HFCs (mt)
+d1877ff4-5765-474f-a56b-99b262207573,PFCs (mt)
+cfda5d8f-2474-4694-ab51-e71524bbf53e,SF6 (mt)
+73ddc9c8-08d1-4b04-a2ab-24dfe1af3af8,Scope 3 (Optional)
+6e04ee25-e6df-4e1d-93a7-5775285fe219,Total (mtCO2e)
+38f83686-ff30-4db3-a986-fa8dcbb76964,CO2 (mt)
+9ab297c5-8f37-431a-8725-0006cb40ae7b,CH4 (mt)
+b1013b46-2f6d-47d0-8075-57051cef81db,N2O (mt)
+09606a2a-1ba0-4c6e-a5d7-bc02b6a67fe3,HFCs (mt)
+6b843d2c-2081-4444-a9f0-aabcf4b614fe,PFCs (mt)
+7ff32f6a-d9c0-4b53-ae40-e0b29f3e6a7d,SF6 (mt)
+4ad97131-23b4-42cc-90d4-2e0eb493962a,Direct CO2 emissions from Biogenic combustion (mtCO2)
+8aacac42-32db-459a-8593-3e7379db58c1,Emissions disaggregated by source types
+f655b2bf-7466-4e5f-9031-e741903c8c9d,Scope 1: Direct Emissions from Owned/Controlled Operations
+cf71c6d5-a5ec-42dc-978c-230686df6b93,Direct Emissions from Stationary Combustion
+5741c255-ee44-49e9-814a-9c7391374322,Direct Emissions from Mobile Combustion
+2ecc331d-4a6f-4620-8b64-53053d791b96,Direct Emissions from Process Sources
+dd3ecdd5-efea-4ff6-af76-c41b448b8834,Direct Emissions from Fugitive Sources
+f496cfd6-6fd7-4812-8523-1b2c77c691c0,Direct Emissions from Agricultural Sources
+88d3b04b-d980-42ce-baab-dcc3a9a15e01,"Scope 2: Indirect Emissions from the Use of Purchased Electricity, Steam, Heating and Cooling"
+c3d634fe-66ce-4b50-bee8-d88891ff2f9c,Indirect Emissions from Purchased/Acquired Electricity
+e92925ed-e8bd-4fbf-a77c-ef1bc7232933,Indirect Emissions from Purchased/Acquired Steam
+b40f1ef4-ff4c-4840-af23-64753cd36252,Indirect Emissions from Purchased/Acquired Heating
+483d01cf-7733-4a7d-9854-cb08363a9541,Indirect Emissions from Purchased/Acquired Cooling
+b7507cf8-8599-4568-b8d4-ac5c9b423ebc,"Emissions disaggregated by facility (recommended for individual facilities with stationary combustion emissions over 10,000 mtCO2e)"
+38078955-82e6-4bf1-afc8-30546e9f268f,Facility
+9553969b-22e2-43e5-bcd4-ecba643c70a5,Scope 1 emissions
+85ff6513-a4be-4490-978f-0d5c37bc8b3c,Emissions disaggregated by country
+ff75d5bb-76fa-42bb-92af-b41d2a1c15ef,Country
+ea3b3a12-8d79-4a9f-945d-82671de13a1f,Emissions (specify Scope)
+39904225-930b-4960-a82b-fecf6e3f1613,"Emissions attributable to own generation of electricity, heat, or steam that is sold or transferred to another organization"
+03e3b852-5531-4eaa-b70f-5faaadf30430,"Emissions attributable to the generation of electricity, heat or steam that is purchased for re-sale to non-end users"
+76d4fff8-b17e-4ef7-b2a4-44fefa25b82f,"Emissions from GHGs not covered by the Kyoto Protocol (e.g., CFCs, NOx,)"
+d822b1c8-a074-48fa-adb8-271ff5e1d875,"Information on the causes of emissions changes that did not trigger a base year emissions recalculation (e.g., process changes, efficiency improvements, plant closures)"
+60522522-af6e-4877-9b6d-7759ec5cb661,"GHG emissions data for all years between the base year and the reporting year (including details of and reasons for recalculations, if appropriate)"
+b2beb5b9-f5fd-40c0-8166-6b681062b8b9,"Relevant ratio performance indicators (e.g. emissions per kilowatt-hour generated, sales, etc.)"
+75b562d1-170e-41b0-a947-83f28aa84eff,An outline of any GHG management/reduction programs or strategies
+f75b1c0a-d3d8-400c-bfcc-2bbd0cb42f0f,Base Year
+2aa7debe-78c2-4a44-baba-4b0eedbe421e,Year chosen as base year
+1bdfa09d-2a1c-40ac-9b27-c5d87dd9ba50,Clarification of company-determined policy for making base year emissions recalculations
+d2a18439-7cb5-403b-bac1-bf5845c64bef,Context for any significant emissions changes that trigger base year emissions recalculations
+48dd9a1c-21fd-4c89-84e8-560d6a78be81,Base year emissions
+4e0ffe5c-a67a-4411-9189-e1ba7e1e5ae6,Scope 1
+1bd91fa0-2e4a-49a7-89c6-f9625d014d4d,Total (mtCO2e)
+abf40d43-5b1f-43ac-a841-509fe5dba8ad,CO2 (mt)
+55e734ac-fb3b-4102-8f75-86b0b08d77a7,CH4 (mt)
+d9ea016f-8bb2-4e24-b7c5-f53fb6c07f6b,N2O (mt)
+c30fab1f-2fd2-4111-901f-b21b290b7631,HFCs (mt)
+6cfea001-34fa-452b-a582-aa80be7a6562,PFCs (mt)
+623a48f1-7847-4a15-b688-a5fdaf7afb07,SF6 (mt)
+1e7cf77c-9574-477d-8786-7f637858f728,Scope 2
+6ef5d619-15c1-40e2-b790-11c5a162870e,Total (mtCO2e)
+6b553c47-b8e3-485f-9d77-206e8de4c9d2,CO2 (mt)
+42ceff69-3bc7-46b7-879e-5bb4b4cb400a,CH4 (mt)
+f962d842-a575-4e89-8c31-bcf18953f045,N2O (mt)
+a14b3842-c0ba-4e27-903f-5a1eab20aa6b,HFCs (mt)
+01687099-81b0-4a19-b4fc-32dbb9690ddb,PFCs (mt)
+272d4e0d-5340-4574-81b4-92035a564812,SF6 (mt)
+5d5b7820-ab45-48e6-8714-db5eaf250bb5,Scope 3 (Optional)
+6a0c5116-478e-4347-8438-f4c99df511d3,Total (mtCO2e)
+5bc90a1d-c4c2-4953-a2d6-42357c49ecf8,CO2 (mt)
+96e0cc95-6f48-41a8-a42d-2a9a76ca7e2c,CH4 (mt)
+67dbeaf9-116b-4701-86c1-9fac1fa438b2,N2O (mt)
+2b0e3da8-29a1-439e-a50d-c23df1736360,HFCs (mt)
+baa791f1-9a54-4d34-8672-ca940ee2eaa0,PFCs (mt)
+d1f06b07-211f-4412-9fa6-12487c2a42be,SF6 (mt)
+44234b40-b88f-4f40-af74-36ad83668ee1,Methodologies and Emission Factors
+6823fa74-842f-4fbe-a5f5-72690180eb81,Methodologies used to calculate or measure emissions other than those provided by the GHG Protocol
+05b15df5-6857-4d09-a909-d047ca8b1500,Additional Information
+5078f150-ff07-4ef7-a6aa-e8d7bee46313,Information on any contractual provisions addressing GHG-related risks and obligations
+a9c9ace6-2088-489b-b9a1-e3a7a27125a0,"An outline of any external assurance provided and a copy of any verification statement, if applicable, of the reported emissions data"
+3dd1a5f2-f2d8-459d-a8b1-1bdbfc8f4d67,"Information on the quality of the inventory (e.g., information on the causes and magnitude of uncertainties in emission estimates) and an outline of policies in place to improve inventory quality"
+1a384992-5226-43e3-a59e-4e8167f3fca3,Information on any GHG sequestration
+83df08a6-d71a-41aa-8298-4328054c5fc0,Information on Offsets
+1f3c93ff-43a4-4587-b7e8-a1899070fea1,Information on offsets that have been purchased or developed outside the inventory boundary
+76ff0de5-d99b-487f-a148-54eef50d14f2,Quantity of GHGs (mtCO2e)
+caf21cb4-282e-4940-a2a9-73c1e121557e,Type of offset project
+482a4bc4-4f61-4670-a493-368a0f381439,"Were the offsets verified/certified and/or approved by an external GHG program (e.g., CDM)"
+0fad4b07-33d1-4b52-a580-69986781e8d0,Information on reductions inside the inventory boundary that have been sold/transferred as offsets to a third party.
+efd76d9c-d9e3-4089-b483-37a05b2b4012,Quantity of GHGs (mtCO2e)
+51f76689-ffce-403c-9d3a-9109353ad03c,Type of offset project
+5f26084c-6857-4261-98f1-7d8d2baff299,"Were the offsets verified/certified and/or approved by an external GHG program (e.g., CDM)"
+22da27b2-f6a0-4bd2-a26d-3202985fadb8,Scope 3 Calculations
+e4ef7fba-310f-42e2-b7a9-fea16a7c1eed,Upstream Scope 3 Emissions
+9e040e6b-9b59-426f-99d0-39c9b9ee9ba8,1. Purchased goods and services
+706ec749-bae5-4d8b-9204-d4d1cc00957c,2. Capital goods
+ef67c6ca-057c-4c9d-b8a7-97852652ca47,3. Fuel- and energy related activities (not included in scope 1 or scope 2)
+c322a415-5eb9-479f-abd0-1eed52f8bf3a,4. Upstream transportation and distribution
+d12141f9-023b-48b1-876e-8d9d6ca9e708,5. Waste generated in operations
+a6873fc0-c2d4-4341-af91-af9b2dd3ca7a,6. Business travel
+7e578c6b-e7cb-4929-ba51-26c5acc206b6,7. Employee commuting
+cf7a8533-4977-4c56-b4ce-56aadf3b6b60,8. Upstream leased assets
+c47313b7-5444-48a8-af38-c4ea20d46684,Downstream Scope 3 Emissions
+15204134-c2af-4727-826d-dd1d74362738,9. Downstream transportation and distribution
+fbef56ff-c538-4c23-b28e-afe92a3918bd,10. Processing of sold products
+de76f146-1025-4243-bf18-ddef9d94b77b,11. Use of sold products
+2667346c-cfdf-461b-8e96-04c60ec555a9,12. End-of-life treatment of sold products
+8945cbd6-8a16-446f-8924-2e530a7ed7db,13. Downstream leased assets
+0602a1c2-13d9-4618-b699-8dc922bd867e,14. Franchises
+ff374ac0-d5ba-4db7-bb45-2e220bba5065,15. Investments
