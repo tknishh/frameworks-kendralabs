@@ -1,0 +1,1 @@
+neo4j-admin import --mode=csv --database=ghgp --nodes=test\ghgp\nodes.csv --relationships=test\ghgp\relationships.csv --ignore-duplicate-nodes=true --ignore-missing-nodes=true --multiline-fields=true --delimiter=, --quote=" --id-type=STRING
